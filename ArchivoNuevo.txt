@@ -1,0 +1,3 @@
+resolucion de conflicto y merge
+La resolucion se debe realizar local
+Listo
